@@ -1,0 +1,2721 @@
+<tr>
+ <th scope="col" style="width:5%;">
+  Season
+ </th>
+ <th scope="col" style="width:20%;">
+  Player
+ </th>
+ <th scope="col" style="width:15%;">
+  Club
+ </th>
+ <th scope="col" style="width:5%;">
+  Goals
+ </th>
+ <th scope="col" style="width:5%;">
+  Games
+ </th>
+ <th scope="col" style="width:5%;">
+  Ratio
+ </th>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1929_La_Liga" title="1929 La Liga">
+   1929
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Spain" title="Spain">
+    <img alt="Spain" class="thumbborder" data-file-height="800" data-file-width="1200" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg/23px-Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg/35px-Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg/45px-Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Bienzobas, Paco">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Paco_Bienzobas" title="Paco Bienzobas">
+      Paco Bienzobas
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Real_Sociedad" title="Real Sociedad">
+   Real Sociedad
+  </a>
+ </td>
+ <td>
+  14
+  <sup class="reference" id="cite_ref-5">
+   <a href="#cite_note-5">
+    [a]
+   </a>
+  </sup>
+ </td>
+ <td>
+  18
+ </td>
+ <td>
+  0.778
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <span class="nowrap">
+   <a href="/wiki/1929%E2%80%9330_La_Liga" title="1929–30 La Liga">
+    1929–30
+   </a>
+  </span>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Spain" title="Spain">
+    <img alt="Spain" class="thumbborder" data-file-height="800" data-file-width="1200" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg/23px-Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg/35px-Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg/45px-Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Gorostiza, Guillermo">
+   <span class="vcard">
+    <span class="fn">
+     <a class="mw-redirect" href="/wiki/Guillermo_Gorostiza_Paredes" title="Guillermo Gorostiza Paredes">
+      Guillermo Gorostiza
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">
+   Athletic Bilbao
+  </a>
+ </td>
+ <td>
+  19
+  <sup class="reference" id="cite_ref-6">
+   <a href="#cite_note-6">
+    [b]
+   </a>
+  </sup>
+ </td>
+ <td>
+  18
+ </td>
+ <td>
+  1.056
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1931%E2%80%9332_La_Liga" title="1931–32 La Liga">
+   1931–32
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Second_Spanish_Republic" title="Second Spanish Republic">
+    <img alt="Second Spanish Republic" class="thumbborder" data-file-height="600" data-file-width="1000" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Spain_%281931%E2%80%931939%29.svg/23px-Flag_of_Spain_%281931%E2%80%931939%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Spain_%281931%E2%80%931939%29.svg/35px-Flag_of_Spain_%281931%E2%80%931939%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Spain_%281931%E2%80%931939%29.svg/46px-Flag_of_Spain_%281931%E2%80%931939%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Gorostiza, Guillermo">
+   <span class="vcard">
+    <span class="fn">
+     <a class="mw-redirect" href="/wiki/Guillermo_Gorostiza_Paredes" title="Guillermo Gorostiza Paredes">
+      Guillermo Gorostiza
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">
+   Athletic Bilbao
+  </a>
+ </td>
+ <td>
+  12
+  <sup class="reference" id="cite_ref-7">
+   <a href="#cite_note-7">
+    [c]
+   </a>
+  </sup>
+ </td>
+ <td>
+  15
+ </td>
+ <td>
+  0.8
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1933%E2%80%9334_La_Liga" title="1933–34 La Liga">
+   1933–34
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Second_Spanish_Republic" title="Second Spanish Republic">
+    <img alt="Second Spanish Republic" class="thumbborder" data-file-height="600" data-file-width="1000" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Spain_%281931%E2%80%931939%29.svg/23px-Flag_of_Spain_%281931%E2%80%931939%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Spain_%281931%E2%80%931939%29.svg/35px-Flag_of_Spain_%281931%E2%80%931939%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Spain_%281931%E2%80%931939%29.svg/46px-Flag_of_Spain_%281931%E2%80%931939%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Lángara, Isidro">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Isidro_L%C3%A1ngara" title="Isidro Lángara">
+      Isidro Lángara
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Real_Oviedo" title="Real Oviedo">
+   Real Oviedo
+  </a>
+ </td>
+ <td>
+  27
+  <sup class="reference" id="cite_ref-8">
+   <a href="#cite_note-8">
+    [d]
+   </a>
+  </sup>
+ </td>
+ <td>
+  18
+ </td>
+ <td>
+  1.5
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1934%E2%80%9335_La_Liga" title="1934–35 La Liga">
+   1934–35
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Second_Spanish_Republic" title="Second Spanish Republic">
+    <img alt="Second Spanish Republic" class="thumbborder" data-file-height="600" data-file-width="1000" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Spain_%281931%E2%80%931939%29.svg/23px-Flag_of_Spain_%281931%E2%80%931939%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Spain_%281931%E2%80%931939%29.svg/35px-Flag_of_Spain_%281931%E2%80%931939%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Spain_%281931%E2%80%931939%29.svg/46px-Flag_of_Spain_%281931%E2%80%931939%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Lángara, Isidro">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Isidro_L%C3%A1ngara" title="Isidro Lángara">
+      Isidro Lángara
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Real_Oviedo" title="Real Oviedo">
+   Real Oviedo
+  </a>
+ </td>
+ <td>
+  26
+  <sup class="reference" id="cite_ref-9">
+   <a href="#cite_note-9">
+    [e]
+   </a>
+  </sup>
+ </td>
+ <td>
+  22
+ </td>
+ <td>
+  1.182
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1935%E2%80%9336_La_Liga" title="1935–36 La Liga">
+   1935–36
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Second_Spanish_Republic" title="Second Spanish Republic">
+    <img alt="Second Spanish Republic" class="thumbborder" data-file-height="600" data-file-width="1000" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Spain_%281931%E2%80%931939%29.svg/23px-Flag_of_Spain_%281931%E2%80%931939%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Spain_%281931%E2%80%931939%29.svg/35px-Flag_of_Spain_%281931%E2%80%931939%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Spain_%281931%E2%80%931939%29.svg/46px-Flag_of_Spain_%281931%E2%80%931939%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Lángara, Isidro">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Isidro_L%C3%A1ngara" title="Isidro Lángara">
+      Isidro Lángara
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (3)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Real_Oviedo" title="Real Oviedo">
+   Real Oviedo
+  </a>
+ </td>
+ <td>
+  28
+  <sup class="reference" id="cite_ref-10">
+   <a href="#cite_note-10">
+    [f]
+   </a>
+  </sup>
+ </td>
+ <td>
+  21
+ </td>
+ <td>
+  1.333
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1940%E2%80%9341_La_Liga" title="1940–41 La Liga">
+   1940–41
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Spain_%281938%E2%80%931945%29.svg/23px-Flag_of_Spain_%281938%E2%80%931945%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Spain_%281938%E2%80%931945%29.svg/35px-Flag_of_Spain_%281938%E2%80%931945%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Spain_%281938%E2%80%931945%29.svg/45px-Flag_of_Spain_%281938%E2%80%931945%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Pruden,">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Pruden" title="Pruden">
+      Pruden
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Atl%C3%A9tico_Madrid" title="Atlético Madrid">
+   Atlético Madrid
+  </a>
+ </td>
+ <td>
+  30
+  <sup class="reference" id="cite_ref-11">
+   <a href="#cite_note-11">
+    [g]
+   </a>
+  </sup>
+ </td>
+ <td>
+  22
+ </td>
+ <td>
+  1.364
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1942%E2%80%9343_La_Liga" title="1942–43 La Liga">
+   1942–43
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Spain_%281938%E2%80%931945%29.svg/23px-Flag_of_Spain_%281938%E2%80%931945%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Spain_%281938%E2%80%931945%29.svg/35px-Flag_of_Spain_%281938%E2%80%931945%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Spain_%281938%E2%80%931945%29.svg/45px-Flag_of_Spain_%281938%E2%80%931945%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Martín, Mariano">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Mariano_Mart%C3%ADn" title="Mariano Martín">
+      Mariano Martín
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/FC_Barcelona" title="FC Barcelona">
+   Barcelona
+  </a>
+ </td>
+ <td>
+  32
+  <sup class="reference" id="cite_ref-12">
+   <a href="#cite_note-12">
+    [h]
+   </a>
+  </sup>
+ </td>
+ <td>
+  23
+ </td>
+ <td>
+  1.391
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1943%E2%80%9344_La_Liga" title="1943–44 La Liga">
+   1943–44
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Spain_%281938%E2%80%931945%29.svg/23px-Flag_of_Spain_%281938%E2%80%931945%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Spain_%281938%E2%80%931945%29.svg/35px-Flag_of_Spain_%281938%E2%80%931945%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Spain_%281938%E2%80%931945%29.svg/45px-Flag_of_Spain_%281938%E2%80%931945%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Mundo,">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Edmundo_Su%C3%A1rez" title="Edmundo Suárez">
+      Mundo
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Valencia_CF" title="Valencia CF">
+   Valencia
+  </a>
+ </td>
+ <td>
+  27
+  <sup class="reference" id="cite_ref-13">
+   <a href="#cite_note-13">
+    [i]
+   </a>
+  </sup>
+ </td>
+ <td>
+  26
+ </td>
+ <td>
+  1.038
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1944%E2%80%9345_La_Liga" title="1944–45 La Liga">
+   1944–45
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Spain_%281938%E2%80%931945%29.svg/23px-Flag_of_Spain_%281938%E2%80%931945%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Spain_%281938%E2%80%931945%29.svg/35px-Flag_of_Spain_%281938%E2%80%931945%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Spain_%281938%E2%80%931945%29.svg/45px-Flag_of_Spain_%281938%E2%80%931945%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Zarra, Telmo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Telmo_Zarra" title="Telmo Zarra">
+      Telmo Zarra
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">
+   Athletic Bilbao
+  </a>
+ </td>
+ <td>
+  19
+  <sup class="reference" id="cite_ref-14">
+   <a href="#cite_note-14">
+    [j]
+   </a>
+  </sup>
+ </td>
+ <td>
+  26
+ </td>
+ <td>
+  0.731
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1945%E2%80%9346_La_Liga" title="1945–46 La Liga">
+   1945–46
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Zarra, Telmo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Telmo_Zarra" title="Telmo Zarra">
+      Telmo Zarra
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">
+   Athletic Bilbao
+  </a>
+ </td>
+ <td>
+  24
+ </td>
+ <td>
+  18
+ </td>
+ <td>
+  1.333
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1946%E2%80%9347_La_Liga" title="1946–47 La Liga">
+   1946–47
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Zarra, Telmo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Telmo_Zarra" title="Telmo Zarra">
+      Telmo Zarra
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (3)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">
+   Athletic Bilbao
+  </a>
+ </td>
+ <td>
+  34
+  <sup class="reference" id="cite_ref-15">
+   <a href="#cite_note-15">
+    [k]
+   </a>
+  </sup>
+ </td>
+ <td>
+  24
+ </td>
+ <td>
+  1.417
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1947%E2%80%9348_La_Liga" title="1947–48 La Liga">
+   1947–48
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Pahiño,">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Pahi%C3%B1o" title="Pahiño">
+      Pahiño
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Celta_de_Vigo" title="Celta de Vigo">
+   Celta Vigo
+  </a>
+ </td>
+ <td>
+  23
+  <sup class="reference" id="cite_ref-16">
+   <a href="#cite_note-16">
+    [l]
+   </a>
+  </sup>
+ </td>
+ <td>
+  22
+ </td>
+ <td>
+  1.045
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1948%E2%80%9349_La_Liga" title="1948–49 La Liga">
+   1948–49
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="César,">
+   <span class="vcard">
+    <span class="fn">
+     <a class="mw-redirect" href="/wiki/C%C3%A9sar_Rodr%C3%ADguez_%C3%81lvarez" title="César Rodríguez Álvarez">
+      César
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/FC_Barcelona" title="FC Barcelona">
+   Barcelona
+  </a>
+ </td>
+ <td>
+  28
+  <sup class="reference" id="cite_ref-17">
+   <a href="#cite_note-17">
+    [m]
+   </a>
+  </sup>
+ </td>
+ <td>
+  24
+ </td>
+ <td>
+  1.167
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1949%E2%80%9350_La_Liga" title="1949–50 La Liga">
+   1949–50
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Zarra, Telmo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Telmo_Zarra" title="Telmo Zarra">
+      Telmo Zarra
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (4)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">
+   Athletic Bilbao
+  </a>
+ </td>
+ <td>
+  25
+  <sup class="reference" id="cite_ref-18">
+   <a href="#cite_note-18">
+    [n]
+   </a>
+  </sup>
+ </td>
+ <td>
+  26
+ </td>
+ <td>
+  0.962
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1950%E2%80%9351_La_Liga" title="1950–51 La Liga">
+   1950–51
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Zarra, Telmo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Telmo_Zarra" title="Telmo Zarra">
+      Telmo Zarra
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (5)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">
+   Athletic Bilbao
+  </a>
+ </td>
+ <td>
+  38
+ </td>
+ <td>
+  30
+ </td>
+ <td>
+  1.267
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1951%E2%80%9352_La_Liga" title="1951–52 La Liga">
+   1951–52
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Pahiño,">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Pahi%C3%B1o" title="Pahiño">
+      Pahiño
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  28
+ </td>
+ <td>
+  27
+ </td>
+ <td>
+  1.037
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1952%E2%80%9353_La_Liga" title="1952–53 La Liga">
+   1952–53
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Zarra, Telmo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Telmo_Zarra" title="Telmo Zarra">
+      Telmo Zarra
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (6)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">
+   Athletic Bilbao
+  </a>
+ </td>
+ <td>
+  24
+ </td>
+ <td>
+  29
+ </td>
+ <td>
+  0.828
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1955%E2%80%9356_La_Liga" title="1955–56 La Liga">
+   1955–56
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Argentina" title="Argentina">
+    <img alt="Argentina" class="thumbborder" data-file-height="500" data-file-width="800" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Di Stéfano, Alfredo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Alfredo_Di_St%C3%A9fano" title="Alfredo Di Stéfano">
+      Alfredo Di Stéfano
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  24
+ </td>
+ <td>
+  30
+ </td>
+ <td>
+  0.8
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1956%E2%80%9357_La_Liga" title="1956–57 La Liga">
+   1956–57
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Di Stéfano, Alfredo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Alfredo_Di_St%C3%A9fano" title="Alfredo Di Stéfano">
+      Alfredo Di Stéfano
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (3)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  31
+ </td>
+ <td>
+  30
+ </td>
+ <td>
+  1.033
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Alós, Ricardo">
+   <span class="vcard">
+    <span class="fn">
+     <a class="new" href="/w/index.php?title=Ricardo_Al%C3%B3s&amp;action=edit&amp;redlink=1" title="Ricardo Alós (page does not exist)">
+      Ricardo Alós
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Valencia_CF" title="Valencia CF">
+   Valencia
+  </a>
+ </td>
+ <td>
+  19
+ </td>
+ <td>
+  29
+ </td>
+ <td>
+  0.655
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Di Stéfano, Alfredo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Alfredo_Di_St%C3%A9fano" title="Alfredo Di Stéfano">
+      Alfredo Di Stéfano
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (4)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  19
+ </td>
+ <td>
+  30
+ </td>
+ <td>
+  0.633
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th>
+  <a href="/wiki/1958%E2%80%9359_La_Liga" title="1958–59 La Liga">
+   1958–59
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Di Stéfano, Alfredo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Alfredo_Di_St%C3%A9fano" title="Alfredo Di Stéfano">
+      Alfredo Di Stéfano
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (5)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  23
+ </td>
+ <td>
+  28
+ </td>
+ <td>
+  0.821
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1959%E2%80%9360_La_Liga" title="1959–60 La Liga">
+   1959–60
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Hungary" title="Hungary">
+    <img alt="Hungary" class="thumbborder" data-file-height="600" data-file-width="1200" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Puskás, Ferenc">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Ferenc_Pusk%C3%A1s" title="Ferenc Puskás">
+      Ferenc Puskás
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  26
+  <sup class="reference" id="cite_ref-19">
+   <a href="#cite_note-19">
+    [o]
+   </a>
+  </sup>
+ </td>
+ <td>
+  24
+ </td>
+ <td>
+  1.083
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1960%E2%80%9361_La_Liga" title="1960–61 La Liga">
+   1960–61
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Hungary" title="Hungary">
+    <img alt="Hungary" class="thumbborder" data-file-height="600" data-file-width="1200" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Puskás, Ferenc">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Ferenc_Pusk%C3%A1s" title="Ferenc Puskás">
+      Ferenc Puskás
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  27
+  <sup class="reference" id="cite_ref-20">
+   <a href="#cite_note-20">
+    [p]
+   </a>
+  </sup>
+ </td>
+ <td>
+  28
+ </td>
+ <td>
+  0.964
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1962%E2%80%9363_La_Liga" title="1962–63 La Liga">
+   1962–63
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Puskás, Ferenc">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Ferenc_Pusk%C3%A1s" title="Ferenc Puskás">
+      Ferenc Puskás
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (3)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  26
+ </td>
+ <td>
+  30
+ </td>
+ <td>
+  0.867
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a class="mw-redirect" href="/wiki/1963-64_La_Liga" title="1963-64 La Liga">
+   1963–64
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Puskás, Ferenc">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Ferenc_Pusk%C3%A1s" title="Ferenc Puskás">
+      Ferenc Puskás
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (4)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  20
+  <sup class="reference" id="cite_ref-21">
+   <a href="#cite_note-21">
+    [q]
+   </a>
+  </sup>
+ </td>
+ <td>
+  25
+ </td>
+ <td>
+  0.8
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1964%E2%80%9365_La_Liga" title="1964–65 La Liga">
+   1964–65
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Paraguay" title="Paraguay">
+    <img alt="Paraguay" class="thumbborder" data-file-height="660" data-file-width="1200" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/35px-Flag_of_Paraguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/46px-Flag_of_Paraguay.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Ré, Cayetano">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Cayetano_R%C3%A9" title="Cayetano Ré">
+      Cayetano Ré
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/FC_Barcelona" title="FC Barcelona">
+   Barcelona
+  </a>
+ </td>
+ <td>
+  25
+  <sup class="reference" id="cite_ref-22">
+   <a href="#cite_note-22">
+    [r]
+   </a>
+  </sup>
+ </td>
+ <td>
+  30
+ </td>
+ <td>
+  0.833
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1965%E2%80%9366_La_Liga" title="1965–66 La Liga">
+   1965–66
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="II, Vavá">
+   <span class="vcard">
+    <span class="fn">
+     <a class="new" href="/w/index.php?title=Vav%C3%A1_II&amp;action=edit&amp;redlink=1" title="Vavá II (page does not exist)">
+      Vavá II
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Elche_CF" title="Elche CF">
+   Elche
+  </a>
+ </td>
+ <td>
+  19
+  <sup class="reference" id="cite_ref-23">
+   <a href="#cite_note-23">
+    [s]
+   </a>
+  </sup>
+ </td>
+ <td>
+  30
+ </td>
+ <td>
+  0.633
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Gárate, José Eulogio">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Jos%C3%A9_Eulogio_G%C3%A1rate" title="José Eulogio Gárate">
+      José Eulogio Gárate
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Atl%C3%A9tico_Madrid" title="Atlético Madrid">
+   Atlético Madrid
+  </a>
+ </td>
+ <td>
+  14
+ </td>
+ <td>
+  30
+ </td>
+ <td>
+  0.467
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th rowspan="3" valign="middle">
+  <a href="/wiki/1969%E2%80%9370_La_Liga" title="1969–70 La Liga">
+   1969–70
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Amancio,">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Amancio_Amaro" title="Amancio Amaro">
+      Amancio
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  16
+ </td>
+ <td>
+  29
+ </td>
+ <td>
+  0.552
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Aragonés, Luis">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Luis_Aragon%C3%A9s" title="Luis Aragonés">
+      Luis Aragonés
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Atl%C3%A9tico_Madrid" title="Atlético Madrid">
+   Atlético Madrid
+  </a>
+ </td>
+ <td>
+  16
+ </td>
+ <td>
+  30
+ </td>
+ <td>
+  0.533
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <td>
+  <span class="nowrap">
+   <span class="flagicon">
+    <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+     <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+    </a>
+   </span>
+   <span data-sort-value="Gárate, José Eulogio">
+    <span class="vcard">
+     <span class="fn">
+      <a href="/wiki/Jos%C3%A9_Eulogio_G%C3%A1rate" title="José Eulogio Gárate">
+       José Eulogio Gárate
+      </a>
+     </span>
+    </span>
+   </span>
+   <span style="font-size:85%;">
+    (2)
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Atl%C3%A9tico_Madrid" title="Atlético Madrid">
+   Atlético Madrid
+  </a>
+ </td>
+ <td>
+  16
+ </td>
+ <td>
+  30
+ </td>
+ <td>
+  0.533
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th rowspan="2" valign="middle">
+  <a href="/wiki/1970%E2%80%9371_La_Liga" title="1970–71 La Liga">
+   1970–71
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Gárate, José Eulogio">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Jos%C3%A9_Eulogio_G%C3%A1rate" title="José Eulogio Gárate">
+      José Eulogio Gárate
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (3)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Atl%C3%A9tico_Madrid" title="Atlético Madrid">
+   Atlético Madrid
+  </a>
+ </td>
+ <td>
+  17
+ </td>
+ <td>
+  28
+ </td>
+ <td>
+  0.607
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Rexach, Carles">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Carles_Rexach" title="Carles Rexach">
+      Carles Rexach
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/FC_Barcelona" title="FC Barcelona">
+   Barcelona
+  </a>
+ </td>
+ <td>
+  17
+ </td>
+ <td>
+  28
+ </td>
+ <td>
+  0.607
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a class="mw-redirect" href="/wiki/1975-76_La_Liga" title="1975-76 La Liga">
+   1975–76
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Francoist_Spain" title="Francoist Spain">
+    <img alt="Francoist Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/23px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/35px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Spain_%281945%E2%80%931977%29.svg/45px-Flag_of_Spain_%281945%E2%80%931977%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Quini,">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Quini" title="Quini">
+      Quini
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Sporting_de_Gij%C3%B3n" title="Sporting de Gijón">
+   Sporting Gijón
+  </a>
+ </td>
+ <td>
+  18
+  <sup class="reference" id="cite_ref-24">
+   <a href="#cite_note-24">
+    [t]
+   </a>
+  </sup>
+ </td>
+ <td>
+  34
+ </td>
+ <td>
+  0.529
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1977%E2%80%9378_La_Liga" title="1977–78 La Liga">
+   1977–78
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Argentina" title="Argentina">
+    <img alt="Argentina" class="thumbborder" data-file-height="500" data-file-width="800" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Kempes, Mario">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Mario_Kempes" title="Mario Kempes">
+      Mario Kempes
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Valencia_CF" title="Valencia CF">
+   Valencia
+  </a>
+ </td>
+ <td>
+  28
+ </td>
+ <td>
+  34
+ </td>
+ <td>
+  0.824
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1979%E2%80%9380_La_Liga" title="1979–80 La Liga">
+   1979–80
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Spain" title="Spain">
+    <img alt="Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Spain_%281977%E2%80%931981%29.svg/23px-Flag_of_Spain_%281977%E2%80%931981%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Spain_%281977%E2%80%931981%29.svg/35px-Flag_of_Spain_%281977%E2%80%931981%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Spain_%281977%E2%80%931981%29.svg/45px-Flag_of_Spain_%281977%E2%80%931981%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Quini,">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Quini" title="Quini">
+      Quini
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (3)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Sporting_de_Gij%C3%B3n" title="Sporting de Gijón">
+   Sporting Gijón
+  </a>
+ </td>
+ <td>
+  24
+ </td>
+ <td>
+  34
+ </td>
+ <td>
+  0.706
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1980%E2%80%9381_La_Liga" title="1980–81 La Liga">
+   1980–81
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Spain" title="Spain">
+    <img alt="Spain" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Spain_%281977%E2%80%931981%29.svg/23px-Flag_of_Spain_%281977%E2%80%931981%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Spain_%281977%E2%80%931981%29.svg/35px-Flag_of_Spain_%281977%E2%80%931981%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Spain_%281977%E2%80%931981%29.svg/45px-Flag_of_Spain_%281977%E2%80%931981%29.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Quini,">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Quini" title="Quini">
+      Quini
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (4)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/FC_Barcelona" title="FC Barcelona">
+   Barcelona
+  </a>
+ </td>
+ <td>
+  20
+ </td>
+ <td>
+  30
+ </td>
+ <td>
+  0.667
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1981%E2%80%9382_La_Liga" title="1981–82 La Liga">
+   1981–82
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Spain" title="Spain">
+    <img alt="Spain" class="thumbborder" data-file-height="500" data-file-width="750" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Quini,">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Quini" title="Quini">
+      Quini
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (5)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/FC_Barcelona" title="FC Barcelona">
+   Barcelona
+  </a>
+ </td>
+ <td>
+  26
+  <sup class="reference" id="cite_ref-25">
+   <a href="#cite_note-25">
+    [u]
+   </a>
+  </sup>
+ </td>
+ <td>
+  32
+ </td>
+ <td>
+  0.813
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Spain" title="Spain">
+    <img alt="Spain" class="thumbborder" data-file-height="500" data-file-width="750" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Juanito,">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Juanito_(footballer,_born_1954)" title="Juanito (footballer, born 1954)">
+      Juanito
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  17
+ </td>
+ <td>
+  31
+ </td>
+ <td>
+  0.548
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1985%E2%80%9386_La_Liga" title="1985–86 La Liga">
+   1985–86
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Mexico" title="Mexico">
+    <img alt="Mexico" class="thumbborder" data-file-height="560" data-file-width="980" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Sánchez, Hugo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Hugo_S%C3%A1nchez" title="Hugo Sánchez">
+      Hugo Sánchez
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  22
+ </td>
+ <td>
+  33
+ </td>
+ <td>
+  0.667
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1986%E2%80%9387_La_Liga" title="1986–87 La Liga">
+   1986–87
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Mexico" title="Mexico">
+    <img alt="Mexico" class="thumbborder" data-file-height="560" data-file-width="980" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Sánchez, Hugo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Hugo_S%C3%A1nchez" title="Hugo Sánchez">
+      Hugo Sánchez
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (3)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  34
+ </td>
+ <td>
+  41
+ </td>
+ <td>
+  0.829
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1987%E2%80%9388_La_Liga" title="1987–88 La Liga">
+   1987–88
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Mexico" title="Mexico">
+    <img alt="Mexico" class="thumbborder" data-file-height="560" data-file-width="980" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Sánchez, Hugo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Hugo_S%C3%A1nchez" title="Hugo Sánchez">
+      Hugo Sánchez
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (4)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  29
+ </td>
+ <td>
+  36
+ </td>
+ <td>
+  0.806
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/1989%E2%80%9390_La_Liga" title="1989–90 La Liga">
+   1989–90
+  </a>
+ </th>
+ <td bgcolor="#FFD700">
+  <span class="flagicon">
+   <a href="/wiki/Mexico" title="Mexico">
+    <img alt="Mexico" class="thumbborder" data-file-height="560" data-file-width="980" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Sánchez, Hugo">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Hugo_S%C3%A1nchez" title="Hugo Sánchez">
+      Hugo Sánchez
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (5)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  38
+ </td>
+ <td>
+  35
+ </td>
+ <td>
+  1.086
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2000%E2%80%9301_La_Liga" title="2000–01 La Liga">
+   2000–01
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Spain" title="Spain">
+    <img alt="Spain" class="thumbborder" data-file-height="500" data-file-width="750" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Raúl,">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Ra%C3%BAl_(footballer)" title="Raúl (footballer)">
+      Raúl
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  24
+ </td>
+ <td>
+  36
+ </td>
+ <td>
+  0.667
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2001%E2%80%9302_La_Liga" title="2001–02 La Liga">
+   2001–02
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Spain" title="Spain">
+    <img alt="Spain" class="thumbborder" data-file-height="500" data-file-width="750" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Tristán, Diego">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Diego_Trist%C3%A1n" title="Diego Tristán">
+      Diego Tristán
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Deportivo_de_La_Coru%C3%B1a" title="Deportivo de La Coruña">
+   Deportivo La Coruña
+  </a>
+ </td>
+ <td>
+  21
+  <sup class="reference" id="cite_ref-26">
+   <a href="#cite_note-26">
+    [v]
+   </a>
+  </sup>
+ </td>
+ <td>
+  35
+ </td>
+ <td>
+  0.6
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2003%E2%80%9304_La_Liga" title="2003–04 La Liga">
+   2003–04
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Brazil" title="Brazil">
+    <img alt="Brazil" class="thumbborder" data-file-height="504" data-file-width="720" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" width="22"/>
+   </a>
+  </span>
+  <span data-sort-value="Ronaldo,">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Ronaldo_(Brazilian_footballer)" title="Ronaldo (Brazilian footballer)">
+      Ronaldo
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  25
+  <sup class="reference" id="cite_ref-27">
+   <a href="#cite_note-27">
+    [w]
+   </a>
+  </sup>
+ </td>
+ <td>
+  32
+ </td>
+ <td>
+  0.781
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2004%E2%80%9305_La_Liga" title="2004–05 La Liga">
+   2004–05
+  </a>
+ </th>
+ <td bgcolor="#FFD700">
+  <span class="flagicon">
+   <a href="/wiki/Uruguay" title="Uruguay">
+    <img alt="Uruguay" class="thumbborder" data-file-height="630" data-file-width="945" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Forlán, Diego">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Diego_Forl%C3%A1n" title="Diego Forlán">
+      Diego Forlán
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Villarreal_CF" title="Villarreal CF">
+   Villarreal
+  </a>
+ </td>
+ <td>
+  25
+  <sup class="reference" id="cite_ref-28">
+   <a href="#cite_note-28">
+    [x]
+   </a>
+  </sup>
+ </td>
+ <td>
+  38
+ </td>
+ <td>
+  0.658
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2008%E2%80%9309_La_Liga" title="2008–09 La Liga">
+   2008–09
+  </a>
+ </th>
+ <td bgcolor="#FFD700">
+  <span class="flagicon">
+   <a href="/wiki/Uruguay" title="Uruguay">
+    <img alt="Uruguay" class="thumbborder" data-file-height="630" data-file-width="945" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Forlán, Diego">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Diego_Forl%C3%A1n" title="Diego Forlán">
+      Diego Forlán
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/Atl%C3%A9tico_Madrid" title="Atlético Madrid">
+   Atlético Madrid
+  </a>
+ </td>
+ <td>
+  32
+ </td>
+ <td>
+  33
+ </td>
+ <td>
+  0.97
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2010%E2%80%9311_La_Liga" title="2010–11 La Liga">
+   2010–11
+  </a>
+ </th>
+ <td bgcolor="#FFD700">
+  <span class="flagicon">
+   <a href="/wiki/Portugal" title="Portugal">
+    <img alt="Portugal" class="thumbborder" data-file-height="400" data-file-width="600" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Ronaldo, Cristiano">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Cristiano_Ronaldo" title="Cristiano Ronaldo">
+      Cristiano Ronaldo
+     </a>
+    </span>
+   </span>
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  41
+  <sup class="reference" id="cite_ref-29">
+   <a href="#cite_note-29">
+    [5]
+   </a>
+  </sup>
+  <sup class="reference" id="cite_ref-30">
+   <a href="#cite_note-30">
+    [y]
+   </a>
+  </sup>
+ </td>
+ <td>
+  34
+ </td>
+ <td>
+  1.206
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2011%E2%80%9312_La_Liga" title="2011–12 La Liga">
+   2011–12
+  </a>
+ </th>
+ <td bgcolor="#FFD700">
+  <span class="flagicon">
+   <a href="/wiki/Argentina" title="Argentina">
+    <img alt="Argentina" class="thumbborder" data-file-height="500" data-file-width="800" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Messi, Lionel">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Lionel_Messi" title="Lionel Messi">
+      Lionel Messi
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/FC_Barcelona" title="FC Barcelona">
+   Barcelona
+  </a>
+ </td>
+ <td>
+  50
+ </td>
+ <td>
+  37
+ </td>
+ <td>
+  1.351
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2012%E2%80%9313_La_Liga" title="2012–13 La Liga">
+   2012–13
+  </a>
+ </th>
+ <td bgcolor="#FFD700">
+  <span class="flagicon">
+   <a href="/wiki/Argentina" title="Argentina">
+    <img alt="Argentina" class="thumbborder" data-file-height="500" data-file-width="800" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Messi, Lionel">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Lionel_Messi" title="Lionel Messi">
+      Lionel Messi
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (3)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/FC_Barcelona" title="FC Barcelona">
+   Barcelona
+  </a>
+ </td>
+ <td>
+  46
+ </td>
+ <td>
+  32
+ </td>
+ <td>
+  1.438
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2013%E2%80%9314_La_Liga" title="2013–14 La Liga">
+   2013–14
+  </a>
+ </th>
+ <td bgcolor="#FFD700">
+  <span class="flagicon">
+   <a href="/wiki/Portugal" title="Portugal">
+    <img alt="Portugal" class="thumbborder" data-file-height="400" data-file-width="600" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Ronaldo, Cristiano">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Cristiano_Ronaldo" title="Cristiano Ronaldo">
+      Cristiano Ronaldo
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (2)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  31
+ </td>
+ <td>
+  30
+ </td>
+ <td>
+  1.033
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2014%E2%80%9315_La_Liga" title="2014–15 La Liga">
+   2014–15
+  </a>
+ </th>
+ <td bgcolor="#FFD700">
+  <span class="flagicon">
+   <a href="/wiki/Portugal" title="Portugal">
+    <img alt="Portugal" class="thumbborder" data-file-height="400" data-file-width="600" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Ronaldo, Cristiano">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Cristiano_Ronaldo" title="Cristiano Ronaldo">
+      Cristiano Ronaldo
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (3)
+  </span>
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">
+   Real Madrid
+  </a>
+ </td>
+ <td>
+  48
+ </td>
+ <td>
+  35
+ </td>
+ <td>
+  1.371
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2016%E2%80%9317_La_Liga" title="2016–17 La Liga">
+   2016–17
+  </a>
+ </th>
+ <td bgcolor="#FFD700">
+  <span class="flagicon">
+   <a href="/wiki/Argentina" title="Argentina">
+    <img alt="Argentina" class="thumbborder" data-file-height="500" data-file-width="800" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Messi, Lionel">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Lionel_Messi" title="Lionel Messi">
+      Lionel Messi
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (4)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/FC_Barcelona" title="FC Barcelona">
+   Barcelona
+  </a>
+ </td>
+ <td>
+  37
+ </td>
+ <td>
+  34
+ </td>
+ <td>
+  1.088
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2017%E2%80%9318_La_Liga" title="2017–18 La Liga">
+   2017–18
+  </a>
+ </th>
+ <td bgcolor="#FFD700">
+  <span class="flagicon">
+   <a href="/wiki/Argentina" title="Argentina">
+    <img alt="Argentina" class="thumbborder" data-file-height="500" data-file-width="800" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Messi, Lionel">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Lionel_Messi" title="Lionel Messi">
+      Lionel Messi
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (5)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/FC_Barcelona" title="FC Barcelona">
+   Barcelona
+  </a>
+ </td>
+ <td>
+  34
+ </td>
+ <td>
+  36
+ </td>
+ <td>
+  0.944
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2018%E2%80%9319_La_Liga" title="2018–19 La Liga">
+   2018–19
+  </a>
+ </th>
+ <td bgcolor="#FFD700">
+  <span class="flagicon">
+   <a href="/wiki/Argentina" title="Argentina">
+    <img alt="Argentina" class="thumbborder" data-file-height="500" data-file-width="800" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Messi, Lionel">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Lionel_Messi" title="Lionel Messi">
+      Lionel Messi
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (6)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/FC_Barcelona" title="FC Barcelona">
+   Barcelona
+  </a>
+ </td>
+ <td>
+  36
+ </td>
+ <td>
+  34
+ </td>
+ <td>
+  1.059
+ </td>
+</tr>
+
+
+
+
+
+<tr>
+ <th scope="row">
+  <a href="/wiki/2019%E2%80%9320_La_Liga" title="2019–20 La Liga">
+   2019–20
+  </a>
+ </th>
+ <td>
+  <span class="flagicon">
+   <a href="/wiki/Argentina" title="Argentina">
+    <img alt="Argentina" class="thumbborder" data-file-height="500" data-file-width="800" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" width="23"/>
+   </a>
+  </span>
+  <span data-sort-value="Messi, Lionel">
+   <span class="vcard">
+    <span class="fn">
+     <a href="/wiki/Lionel_Messi" title="Lionel Messi">
+      Lionel Messi
+     </a>
+    </span>
+   </span>
+  </span>
+  <span style="font-size:85%;">
+   (7)
+  </span>
+ </td>
+ <td>
+  <a href="/wiki/FC_Barcelona" title="FC Barcelona">
+   Barcelona
+  </a>
+ </td>
+ <td>
+  25
+ </td>
+ <td>
+  33
+ </td>
+ <td>
+  0.758
+ </td>
+</tr>
+
+
+
+

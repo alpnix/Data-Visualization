@@ -62,19 +62,22 @@ x.append(1)
 y.append(1)
 
 app.layout = html.Div(children=[
-    html.H1("Dash Practice",style={"textAlign":"center", "margin": "0"}),
-    dcc.Input(id="input",autoComplete="off", value="", placeholder="Enter a stock ticker: "),
-    html.Div(id="outer-graph"),
-    html.Div([
+    html.H1("Stock Price Visualization",style={"textAlign":"center", "marginTop": "50px"}),
+    dcc.Input(id="input",autoComplete="off", value="", placeholder="Enter stock", style={"marginLeft": "40px", "height": "30px", "width": "200px", "padding": "0px 15px", "borderRadius": "15px", "fontSize": "15px"}),
+    html.Div(id="outer-graph")],style={
+        "color":"#111"
+    })
+
+"""html.Div([
         dcc.Graph(id="live-graph",animate=True),
         dcc.Interval(
             id="graph-update",
             interval=1000,
             n_intervals=0,
         )
-    ])
+    ])"""
 
-])
+
 
 # call back is set to integrate the returned value in
 # as a child of the div element with outer-graph id
@@ -88,8 +91,9 @@ def update_value(input_data):
     # creating a variable so that we can track the last valid
     # stock enterance of the user
     last_working = "MSFT"
-    start = dt.datetime(2020, 8, 1)
     end = dt.datetime.now()
+    start = end - dt.timedelta(days=365)
+    print(start)
     try:
         df = web.DataReader(stock, "yahoo", start, end)
     except:
@@ -113,16 +117,16 @@ def update_value(input_data):
                     "name": stock
                          }],
                   "layout": {
-                      "title": f"{stock} Stock Shares in 2021"
+                      "title": f"{stock} Stock Shares in the Last 12 Months"
                   }
               }
     )
 
 # figure returning callback bc the element is a graph element
-@app.callback(
+"""@app.callback(
     Output('live-graph', 'figure'),
     Input('graph-update', 'n_intervals')
-)
+)"""
 # appends arbitrary values to x and y deques and then displays them
 def live_update_values(n):
     x.append(x[-1] + 1)
